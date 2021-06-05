@@ -1,0 +1,3 @@
+login : admin@admin.com pass: admin
+
+pakai php serve biar maksimal karan pakai laravel mix
